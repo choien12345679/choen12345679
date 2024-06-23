@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/RIFF/https://raw.githubusercontent.com/choien12345679/choen12345679/main/DALL%C2%B7E%202024-06-23%2022.17.27%20-%20An%20animated%20GIF%20with%20the%20text%20'Welcome%20to%20Kihoon%20GITHUB'%20in%20a%20round%20and%20stylish%20font.%20The%20background%20should%20have%20a%20subtle%20space%20theme%20with%20stars%20or%20a%20.webp alt="Welcome to Kihoon GITHUB" width="512" />
+  <img src="https://github.com/RIFF/DALL·E 2024-06-23 22.17.27 - An animated GIF with the text 'Welcome to Kihoon GITHUB' in a round and stylish font. The background should have a subtle space theme with stars or a .webp alt="Welcome to Kihoon GITHUB" width="512" />
 </div>
 
 <br>
