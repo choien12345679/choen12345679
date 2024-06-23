@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/choien12345679/choen12345679/main/An_animated_GIF_with_the_text_Welcome_to_Kihoon_GITHUB.png alt="Welcome to Kihoon GITHUB" width="512" />
+  <img src="https://raw.githubusercontent.com/choien12345679/choen12345679/main/An_animated_GIF_with_the_text_Welcome_to_Kihoon_GITHUB.png" alt="Welcome to Kihoon GITHUB" width="512" />
 </div>
 
 <br>
