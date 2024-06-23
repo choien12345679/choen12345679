@@ -7,7 +7,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github.com/DALL·E 2024-06-23 22.17.27 - An animated GIF with the text 'Welcome to Kihoon GITHUB' in a round and stylish font. The background should have a subtle space theme with stars or a .webp" alt="Welcome to Kihoon GITHUB" />
+  <img src="DALL·E 2024-06-23 22.17.27 - An animated GIF with the text 'Welcome to Kihoon GITHUB' in a round and stylish font. The background should have a subtle space theme with stars or a .webp" alt="Welcome to Kihoon GITHUB" />
 </div>
 
 <br>
@@ -52,27 +52,3 @@
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" alt="Notion Logo" />&nbsp;
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/adobe%20photoshop-08253c.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=37abff" alt="Adobe Photoshop Logo" />&nbsp;
-  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Logo" />&nbsp;
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" alt="VSCode Logo" />&nbsp;
-  <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" alt="Jupyter Logo" />&nbsp;
-</div>
-
-<br>
-
-<h3 align="center">📫 Contact 📫</h3>
-<div align="center">
-  <a href="https://velog.io/@oka1313">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" alt="Velog" />&nbsp;
-  </a>
-  <a href="mailto:oka1313@gmail.com">
-    <img
-      src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />&nbsp;
-  </a>
-</div>
