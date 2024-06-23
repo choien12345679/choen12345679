@@ -1,11 +1,9 @@
-<div align="center">
-  <img src="https://github.com/사용자명/레포명/blob/branch명/이미지경로/Welcome-to-Kihoon-GITHUB.gif" alt="Welcome to Kihoon GITHUB" />
-</div>
+<h3 align="center">✨ Tech Stack ✨</h3>
 
 <div align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C Logo" />&nbsp;
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Logo" />&nbsp;
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Logo" />&nbsp;
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fvelog.io%2F%40codemcd%2FJAVA-%25EC%259E%2590%25EB%25B0%2594-%25EB%258D%25B0%25EC%259D%25B4%25ED%2584%25B0-%25ED%2583%2580%25EC%259E%2585-%25EB%25B3%2580%25EC%2588%2598-%25EA%25B7%25B8%25EB%25A6%25AC%25EA%25B3%25A0-%25EB%25B0%25B0%25EC%2597%25B4&psig=AOvVaw3gfdXXN_sObS_vnATEFTqV&ust=1719234547282000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKje2Pbl8YYDFQAAAAAdAAAAABAE" />&nbsp;
 </div>
 
 <br>
@@ -15,13 +13,6 @@
 </div>
 
 <br>
-
-<h3 align="center">✨ Tech Stack ✨</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Logo" />&nbsp;
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" alt="JavaScript Logo" />&nbsp;
-  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Logo" />&nbsp;
-</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=ffd35b" alt="Styled Components Logo" />&nbsp;
