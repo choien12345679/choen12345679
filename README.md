@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C Logo" />&nbsp;
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Logo" />&nbsp;
-  <img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fvelog.io%2F%40codemcd%2FJAVA-%25EC%259E%2590%25EB%25B0%2594-%25EB%258D%25B0%25EC%259D%25B4%25ED%2584%25B0-%25ED%2583%2580%25EC%259E%2585-%25EB%25B3%2580%25EC%2588%2598-%25EA%25B7%25B8%25EB%25A6%25AC%25EA%25B3%25A0-%25EB%25B0%25B0%25EC%2597%25B4&psig=AOvVaw3gfdXXN_sObS_vnATEFTqV&ust=1719234547282000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKje2Pbl8YYDFQAAAAAdAAAAABAE](https://velog.velcdn.com/images/codemcd/post/5a97b9bf-4790-4791-84be-32fe0f0ec90a/Java_Logo.png)" />&nbsp;
+  <img src="https://velog.velcdn.com/images/codemcd/post/5a97b9bf-4790-4791-84be-32fe0f0ec90a/Java_Logo.png" />&nbsp;
 </div>
 
 <br>
