@@ -7,7 +7,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github.com/사용자명/리포지토리명/raw/브랜치명/경로/파일명.png" alt="Welcome to Kihoon GITHUB" width="512" />
+  <img src="https://github.com/RIFF�=" alt="Welcome to Kihoon GITHUB" width="512" />
 </div>
 
 
