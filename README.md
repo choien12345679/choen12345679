@@ -7,7 +7,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github.com/사용자명/레포명/blob/branch명/이미지경로/Welcome-to-Kihoon-GITHUB.gif" alt="Welcome to Kihoon GITHUB" />
+  <img src="https://github.com/DALL·E 2024-06-23 22.17.27 - An animated GIF with the text 'Welcome to Kihoon GITHUB' in a round and stylish font. The background should have a subtle space theme with stars or a .webp" alt="Welcome to Kihoon GITHUB" />
 </div>
 
 <br>
