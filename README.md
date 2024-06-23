@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://github.com/사용자명/레포명/blob/branch명/이미지경로/Welcome-to-Kihoon-GITHUB.gif" alt="Welcome to Kihoon GITHUB" />
+</div>
+
+<div align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C Logo" />&nbsp;
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Logo" />&nbsp;
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Logo" />&nbsp;
