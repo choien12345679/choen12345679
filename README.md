@@ -1,5 +1,5 @@
 <div align="center" style="background-color:black; padding:20px;">
-  <img src="https://raw.githubusercontent.com/choien12345679/choen12345679/main/Welcome_to_Kihoon_GITHUB_stars.gif" alt="Welcome to Kihoon GITHUB" width="512" />
+  <img src="https://raw.githubusercontent.com/choien12345679/choen12345679/main/Welcome_to_Kihoon_GITHUB_stars.gif" alt="Welcome to Kihoon GITHUB" width="600" />
 </div>
 
 <br>
