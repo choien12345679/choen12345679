@@ -8,7 +8,8 @@
 <div align="center" style="background-color:black; padding:20px;">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C Logo" />&nbsp;
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Logo" />&nbsp;
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Logo" />&nbsp;
+  ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
+출처: https://soo-vely-dev.tistory.com/159 [soo_vely의 개발로그:티스토리]
 </div>
 
 <br>
@@ -29,7 +30,8 @@
 
 <br>
 <div align="center" style="background-color:black; padding:20px;">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Logo" />&nbsp;
+ ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
+출처: https://soo-vely-dev.tistory.com/159 [soo_vely의 개발로그:티스토리]
 </div>
 
 <br>
