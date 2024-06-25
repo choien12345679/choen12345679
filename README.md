@@ -35,5 +35,6 @@
 <div align="center">
   <a href="https://solved.ac/choien79/">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=choien79" alt="Solved.ac Profile">
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
   </a>
 </div>
