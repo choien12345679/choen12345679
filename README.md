@@ -8,7 +8,7 @@
 <div align="center" style="background-color:black; padding:20px;">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C Logo" />&nbsp;
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Logo" />&nbsp;
-  <img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=java&logoColor=white" alt="Java Logo" />
+  <img src="https://raw.githubusercontent.com/choien12345679/choien12345679/main/Java_logo_with_cup.png" style="height:28px;" alt="Java Logo" />
 </div>
 
 <br>
@@ -29,7 +29,7 @@
 
 <br>
 <div align="center" style="background-color:black; padding:20px;">
-  <img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=java&logoColor=white" alt="Java Logo" />
+  <img src="https://raw.githubusercontent.com/choien12345679/choen12345679/main/Java_logo_with_cup.png" style="height:28px;" alt="Java Logo" />
 </div>
 
 <br>
@@ -37,5 +37,6 @@
   <a href="https://solved.ac/choien79/">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=choien79" alt="Solved.ac Profile">
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- Adjust space as needed -->
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" alt="Anurag's GitHub stats">
 </div>
