@@ -23,4 +23,5 @@
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio Logo" />&nbsp;
 </div>
 <br>
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=choien79)](https://solved.ac/choien79)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=choien79)](https://solved.ac/choien79/)
+
