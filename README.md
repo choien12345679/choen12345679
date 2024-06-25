@@ -28,7 +28,9 @@
 
 
 <br>
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Logo" />&nbsp;
+<div align="center" style="background-color:black; padding:20px;">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Logo" />&nbsp;
+</div> 
 <br>
 <div align="center">
   <a href="https://solved.ac/choien79/">
