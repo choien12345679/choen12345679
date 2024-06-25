@@ -29,7 +29,7 @@
 
 <br>
 <div align="center" style="background-color:black; padding:20px;">
-  <img src="https://raw.githubusercontent.com/choien12345679/choen12345679/main/Java_logo_with_cup.png" style="height:28px;" alt="Java Logo" />
+  <img src="https://raw.githubusercontent.com/choien12345679/choien12345679/main/Java_logo_with_cup.png" style="height:28px;" alt="Java Logo" />
 </div>
 
 <br>
