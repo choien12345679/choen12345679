@@ -22,3 +22,5 @@
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code Logo" />&nbsp;
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio Logo" />&nbsp;
 </div>
+<br>
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=choien79)](https://solved.ac/choien79)
