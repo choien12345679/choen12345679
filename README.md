@@ -22,19 +22,21 @@
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code Logo" />&nbsp;
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio Logo" />&nbsp;
 </div>
+
 <br>
 
 <h3 align="center">📚 Studying 📚</h3>
 
-
 <br>
 <div align="center" style="background-color:black; padding:20px;">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Logo" />&nbsp;
-</div> 
+</div>
+
 <br>
 <div align="center">
   <a href="https://solved.ac/choien79/">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=choien79" alt="Solved.ac Profile">
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
   </a>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" alt="Anurag's GitHub stats">
 </div>
