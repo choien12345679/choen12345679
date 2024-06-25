@@ -1,5 +1,5 @@
 <div align="center" style="background-color:black; padding:20px;">
-  <img src="https://raw.githubusercontent.com/choien12345679/choen12345679/main/Welcome_to_Kihoon_GITHUB_stars.gif" alt="Welcome to Kihoon GITHUB" width="600" />
+  <img src="https://raw.githubusercontent.com/choien12345679/choien12345679/main/Welcome_to_Kihoon_GITHUB_stars.gif" alt="Welcome to Kihoon GITHUB" width="600" />
 </div>
 
 <br>
@@ -35,8 +35,8 @@
 <br>
 <div align="center">
   <a href="https://solved.ac/choien79/">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=choien79" alt="Solved.ac Profile">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=choien79" alt="Solved.ac Profile" style="height: 180px;">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- Adjust space as needed -->
-  <img src="https://github-readme-stats.vercel.app/api?username=choien12345679&show_icons=true&theme=radical" alt="Kihoon's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=choien12345679&show_icons=true&theme=radical" alt="Kihoon's GitHub stats" style="height: 180px;">
 </div>
