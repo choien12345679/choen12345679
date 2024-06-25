@@ -28,7 +28,8 @@
 
 
 <br>
-
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java Logo" />&nbsp;
+<br>
 <div align="center">
   <a href="https://solved.ac/choien79/">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=choien79" alt="Solved.ac Profile">
