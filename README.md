@@ -38,5 +38,5 @@
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=choien79" alt="Solved.ac Profile">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- Adjust space as needed -->
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" alt="Anurag's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=choien12345679&show_icons=true&theme=radical" alt="Kihoon's GitHub stats">
 </div>
